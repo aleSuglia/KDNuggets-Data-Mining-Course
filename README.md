@@ -1,5 +1,5 @@
-KDNuggets-Data-Mining-Course
-============================
+KDNuggets Data mining course downloader
+=======================================
 
 A new accademic year starts and I always want to learn from the most famous authors or books.
 In the data mining field the KDNuggets website (http://www.kdnuggets.com/) is an authority. It has a specific
