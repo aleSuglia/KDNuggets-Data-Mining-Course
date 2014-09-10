@@ -18,8 +18,11 @@ The script it is written in Golang (http://www.golang.org) and on the official w
 the installation binary for every operating system.
 
 After that, you had to build the program:
-    go build kdnuggets_down.go
-    
-and run it:
-    go run kdnuggets_down.go
+```
+go build kdnuggets_down.go
+```
 
+and run it:
+```
+go run kdnuggets_down.go
+```
